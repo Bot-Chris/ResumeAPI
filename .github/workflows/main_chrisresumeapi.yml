@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ChrisResumeAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD8FB02C9A864514922BD20A9B83AD49 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3035915E530D42C2B015ABFBBCCC898C }}
           package: .
